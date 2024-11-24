@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\A Levels\\Computer\\Visual Basic\\Text To Cypher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79E18145-B3DD-4CEB-B2EA-DEF8B1EE7462}|ConsoleApp4.vbproj|f:\\a levels\\computer\\visual basic\\text to cypher\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{79E18145-B3DD-4CEB-B2EA-DEF8B1EE7462}|ConsoleApp4.vbproj|solutionrelative:program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "F:\\A Levels\\Computer\\Visual Basic\\Text To Cypher\\Program.vb",
+              "RelativeDocumentMoniker": "Program.vb",
+              "ToolTip": "F:\\A Levels\\Computer\\Visual Basic\\Text To Cypher\\Program.vb",
+              "RelativeToolTip": "Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-04T22:55:29.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

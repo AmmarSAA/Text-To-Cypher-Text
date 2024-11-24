@@ -1,0 +1,29 @@
+C:\Users\syeda\source\repos\ConsoleApp4\bin\Debug\net9.0\ConsoleApp4.exe
+C:\Users\syeda\source\repos\ConsoleApp4\bin\Debug\net9.0\ConsoleApp4.deps.json
+C:\Users\syeda\source\repos\ConsoleApp4\bin\Debug\net9.0\ConsoleApp4.runtimeconfig.json
+C:\Users\syeda\source\repos\ConsoleApp4\bin\Debug\net9.0\ConsoleApp4.dll
+C:\Users\syeda\source\repos\ConsoleApp4\bin\Debug\net9.0\ConsoleApp4.pdb
+C:\Users\syeda\source\repos\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syeda\source\repos\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\syeda\source\repos\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.AssemblyInfo.vb
+C:\Users\syeda\source\repos\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.vbproj.CoreCompileInputs.cache
+C:\Users\syeda\source\repos\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.dll
+C:\Users\syeda\source\repos\ConsoleApp4\obj\Debug\net9.0\refint\ConsoleApp4.dll
+C:\Users\syeda\source\repos\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.pdb
+C:\Users\syeda\source\repos\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.genruntimeconfig.cache
+C:\Users\syeda\source\repos\ConsoleApp4\obj\Debug\net9.0\ref\ConsoleApp4.dll
+F:\A Levels\Computer\Visual Basic\Text To Cypher\bin\Debug\net9.0\ConsoleApp4.exe
+F:\A Levels\Computer\Visual Basic\Text To Cypher\bin\Debug\net9.0\ConsoleApp4.deps.json
+F:\A Levels\Computer\Visual Basic\Text To Cypher\bin\Debug\net9.0\ConsoleApp4.runtimeconfig.json
+F:\A Levels\Computer\Visual Basic\Text To Cypher\bin\Debug\net9.0\ConsoleApp4.dll
+F:\A Levels\Computer\Visual Basic\Text To Cypher\bin\Debug\net9.0\ConsoleApp4.pdb
+F:\A Levels\Computer\Visual Basic\Text To Cypher\obj\Debug\net9.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+F:\A Levels\Computer\Visual Basic\Text To Cypher\obj\Debug\net9.0\ConsoleApp4.AssemblyInfoInputs.cache
+F:\A Levels\Computer\Visual Basic\Text To Cypher\obj\Debug\net9.0\ConsoleApp4.AssemblyInfo.vb
+F:\A Levels\Computer\Visual Basic\Text To Cypher\obj\Debug\net9.0\ConsoleApp4.vbproj.CoreCompileInputs.cache
+F:\A Levels\Computer\Visual Basic\Text To Cypher\obj\Debug\net9.0\ConsoleApp4.sourcelink.json
+F:\A Levels\Computer\Visual Basic\Text To Cypher\obj\Debug\net9.0\ConsoleApp4.dll
+F:\A Levels\Computer\Visual Basic\Text To Cypher\obj\Debug\net9.0\refint\ConsoleApp4.dll
+F:\A Levels\Computer\Visual Basic\Text To Cypher\obj\Debug\net9.0\ConsoleApp4.pdb
+F:\A Levels\Computer\Visual Basic\Text To Cypher\obj\Debug\net9.0\ConsoleApp4.genruntimeconfig.cache
+F:\A Levels\Computer\Visual Basic\Text To Cypher\obj\Debug\net9.0\ref\ConsoleApp4.dll
